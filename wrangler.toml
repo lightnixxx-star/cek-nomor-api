@@ -1,0 +1,3 @@
+name = "cek-nomor-api-worker"
+main = "worker/index.js"
+compatibility_date = "2025-12-01"
